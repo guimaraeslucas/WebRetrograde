@@ -15,6 +15,8 @@ True Retro Compatibility:
 * GitHub Repository Explorer: Includes specialized rendering logic to browse GitHub repositories comfortably on vintage systems.
 * Content Resizing: Automatically resizes media and adjusts layouts to fit nicely on classic 640x480 or 800x600 displays.
 
+<img src="https://lucasguimaraes.com/webretrograde/1.png" width="350"> <img src="https://lucasguimaraes.com/webretrograde/2.png" width="350">
+
 ## 🚀 Getting Started
 Prerequisites
 A web server running PHP 8.3 or higher.
