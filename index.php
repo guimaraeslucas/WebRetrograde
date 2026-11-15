@@ -240,7 +240,7 @@ function detect_html_redirect($html_body, $current_url) {
 }
 
 function execute_single_http($target_url, $method = 'GET', $post_data = null, $cookie_jar = '', $referer = '', $timeout = 15, $max_bytes = 0, array $extra_headers = []) {
-    $ua = 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) WebRetrograde/1.0 AppleWebKit/537.36 (KHTML, like Gecko) Old Chrome/53.0.2820.59 Safari/537.36';
+    $ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36';
 
     if (function_exists('curl_init')) {
         $ch = curl_init();
